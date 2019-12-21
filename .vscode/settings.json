@@ -2,5 +2,7 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/10abcb27-605d-44bd-af74-56cea0189872/resourceGroups/whichbin-elvi/providers/Microsoft.Web/sites/whichbin",
+    "appService.deploySubpath": ""
 }
